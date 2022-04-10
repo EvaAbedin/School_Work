@@ -1,0 +1,9 @@
+
+Comparable interface in phonebookData class is used to order the object of the phonebookData
+if we removed implements comparable and @overrides tage from the compareTo method it will be a manual ordering
+implements comparable is the natural order of the object. We can not apply inequalities operator into the
+string vairable, for example: <, >, <= etc, instead we can apply string.equals !string.equals and compare to;
+
+
+
+Duplicate items are not printed twice.

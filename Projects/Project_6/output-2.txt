@@ -1,0 +1,157 @@
+/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=63792:/Applications/IntelliJ IDEA CE.app/Contents/bin -Dfile.encoding=UTF-8 -classpath /Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/deploy.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/ext/cldrdata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/ext/dnsns.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/ext/jaccess.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/ext/jfxrt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/ext/localedata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/ext/nashorn.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/ext/sunec.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/ext/zipfs.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/javaws.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/jfxswt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/management-agent.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/plugin.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/lib/ant-javafx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/lib/dt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/lib/javafx-mx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/lib/jconsole.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/lib/packager.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/lib/sa-jdi.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/lib/tools.jar:/Users/evaabedin/Downloads/DoublyLinkedList/out/production/DoublyLinkedList DoublyLinkedList
+Nodes of doubly linked list:
+MylesBoone 347-956-7895
+Katelyn Hull 215-456-8561
+Lorelei Cline 267-856-1475
+Jazlyn Greer 484-589-6574
+Cara Wiley 718-856-9547
+Donte Krueger 347-715-6932
+Dalton Gallagher 215-854-4261
+Micaela Silva 267-134-2486
+Keyla Massey 610-352-7846
+Karley Velez 610-746-2135
+Isabela Ritter 347-635-2586
+Isabela Ritter 347-635-2586
+Cristopher Everett 247-635-3225
+Franklin Moyer 484-522-7085
+Fisher Morse 215-354-7496
+Devin Moreno 267-852-9631
+
+1: Head First Test...
+2: Tail First Test...
+Select: 2
+
+Starting search from tail test...
+Enter search item (or q to quit):fis
+Fisher Morse 215-354-7496
+
+Enter search item (or q to quit):215
+Dalton Gallagher 215-854-4261
+Fisher Morse 215-354-7496
+Katelyn Hull 215-456-8561
+
+Enter search item (or q to quit):dal
+Dalton Gallagher 215-854-4261
+
+Enter search item (or q to quit):347
+Donte Krueger 347-715-6932
+Isabela Ritter 347-635-2586
+MylesBoone 347-956-7895
+
+Enter search item (or q to quit):davi
+No search results found...
+
+Enter search item (or q to quit):fish
+Fisher Morse 215-354-7496
+
+Enter search item (or q to quit):isabel
+Isabela Ritter 347-635-2586
+
+Enter search item (or q to quit):rit
+Isabela Ritter 347-635-2586
+
+Enter search item (or q to quit):wi
+Cara Wiley 718-856-9547
+
+Enter search item (or q to quit):f
+Fisher Morse 215-354-7496
+Franklin Moyer 484-522-7085
+
+Enter search item (or q to quit):d
+Dalton Gallagher 215-854-4261
+Devin Moreno 267-852-9631
+Donte Krueger 347-715-6932
+
+Enter search item (or q to quit):k
+Donte Krueger 347-715-6932
+Franklin Moyer 484-522-7085
+Karley Velez 610-746-2135
+Katelyn Hull 215-456-8561
+Keyla Massey 610-352-7846
+
+Enter search item (or q to quit):q
+
+Process finished with exit code 0
+
+
+
+
+
+
+/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=63872:/Applications/IntelliJ IDEA CE.app/Contents/bin -Dfile.encoding=UTF-8 -classpath /Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/deploy.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/ext/cldrdata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/ext/dnsns.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/ext/jaccess.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/ext/jfxrt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/ext/localedata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/ext/nashorn.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/ext/sunec.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/ext/zipfs.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/javaws.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/jfxswt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/management-agent.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/plugin.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/lib/ant-javafx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/lib/dt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/lib/javafx-mx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/lib/jconsole.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/lib/packager.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/lib/sa-jdi.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/lib/tools.jar:/Users/evaabedin/Downloads/DoublyLinkedList/out/production/DoublyLinkedList DoublyLinkedList
+Nodes of doubly linked list:
+MylesBoone 347-956-7895
+Katelyn Hull 215-456-8561
+Lorelei Cline 267-856-1475
+Jazlyn Greer 484-589-6574
+Cara Wiley 718-856-9547
+Donte Krueger 347-715-6932
+Dalton Gallagher 215-854-4261
+Micaela Silva 267-134-2486
+Keyla Massey 610-352-7846
+Karley Velez 610-746-2135
+Isabela Ritter 347-635-2586
+Isabela Ritter 347-635-2586
+Cristopher Everett 247-635-3225
+Franklin Moyer 484-522-7085
+Fisher Morse 215-354-7496
+Devin Moreno 267-852-9631
+
+1: Head First Test...
+2: Tail First Test...
+Select: 1
+
+Starting search from head test...
+Enter search item (or q to quit):f
+No search results found...
+
+Enter search item (or q to quit):21
+Dalton Gallagher 215-854-4261
+Fisher Morse 215-354-7496
+Karley Velez 610-746-2135
+Katelyn Hull 215-456-8561
+
+Enter search item (or q to quit):eno
+Devin Moreno 267-852-9631
+
+Enter search item (or q to quit):ett
+Cristopher Everett 247-635-3225
+
+Enter search item (or q to quit):631
+Devin Moreno 267-852-9631
+
+Enter search item (or q to quit):347
+Donte Krueger 347-715-6932
+Isabela Ritter 347-635-2586
+MylesBoone 347-956-7895
+
+Enter search item (or q to quit):456
+Katelyn Hull 215-456-8561
+
+Enter search item (or q to quit):ull
+Katelyn Hull 215-456-8561
+
+Enter search item (or q to quit):lez
+Karley Velez 610-746-2135
+
+Enter search item (or q to quit):sey
+Keyla Massey 610-352-7846
+
+Enter search item (or q to quit):her
+Cristopher Everett 247-635-3225
+Dalton Gallagher 215-854-4261
+Fisher Morse 215-354-7496
+
+Enter search item (or q to quit):tel
+Katelyn Hull 215-456-8561
+
+Enter search item (or q to quit):oph
+Cristopher Everett 247-635-3225
+
+Enter search item (or q to quit):ela
+Isabela Ritter 347-635-2586
+Micaela Silva 267-134-2486
+
+Enter search item (or q to quit):q
+
+Process finished with exit code 0

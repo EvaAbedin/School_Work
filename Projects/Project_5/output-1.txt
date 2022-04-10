@@ -1,0 +1,136 @@
+/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=57072:/Applications/IntelliJ IDEA CE.app/Contents/bin -Dfile.encoding=UTF-8 -classpath /Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/deploy.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/ext/cldrdata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/ext/dnsns.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/ext/jaccess.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/ext/jfxrt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/ext/localedata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/ext/nashorn.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/ext/sunec.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/ext/zipfs.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/javaws.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/jfxswt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/management-agent.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/plugin.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/lib/ant-javafx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/lib/dt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/lib/javafx-mx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/lib/jconsole.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/lib/packager.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/lib/sa-jdi.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/lib/tools.jar:/Users/evaabedin/priorityQueue/out/production/priorityQueue ToDoListApplication
+Welcome to My Task List
+
+Choose action (Add(a), Next(n), List(l), Detail(d), Edit(e), Remove(r), Quit(q):
+a
+Adding new Task...
+Enter subject:
+C++ Midterm
+Enter due date (yyyy-MM-dd):
+2021-03-07
+Enter priority abbreviation Normal=n,Low=l,High=h,Urgent=u):
+u
+Choose action (Add(a), Next(n), List(l), Detail(d), Edit(e), Remove(r), Quit(q):
+a
+Adding new Task...
+Enter subject:
+Java Assignments
+Enter due date (yyyy-MM-dd):
+2021-03-07
+Enter priority abbreviation Normal=n,Low=l,High=h,Urgent=u):
+h
+Choose action (Add(a), Next(n), List(l), Detail(d), Edit(e), Remove(r), Quit(q):
+a
+Adding new Task...
+Enter subject:
+English paper draft
+Enter due date (yyyy-MM-dd):
+2021-03-07
+Enter priority abbreviation Normal=n,Low=l,High=h,Urgent=u):
+n
+Choose action (Add(a), Next(n), List(l), Detail(d), Edit(e), Remove(r), Quit(q):
+Clean my room
+Choose action (Add(a), Next(n), List(l), Detail(d), Edit(e), Remove(r), Quit(q):
+a
+Adding new Task...
+Enter subject:
+Clean my room
+Enter due date (yyyy-MM-dd):
+2021-03-07
+Enter priority abbreviation Normal=n,Low=l,High=h,Urgent=u):
+l
+Choose action (Add(a), Next(n), List(l), Detail(d), Edit(e), Remove(r), Quit(q):
+l
+Id:1; Subject: C++ Midterm; Status: NOT_STARTED; Priority: URGENT; StartDate: 2021-03-07; Due date: 2021-03-07
+Id:2; Subject: Java Assignments; Status: NOT_STARTED; Priority: HIGH; StartDate: 2021-03-07; Due date: 2021-03-07
+Id:3; Subject: English paper draft; Status: NOT_STARTED; Priority: NORMAL; StartDate: 2021-03-07; Due date: 2021-03-07
+Id:4; Subject: Clean my room; Status: NOT_STARTED; Priority: LOW; StartDate: 2021-03-07; Due date: 2021-03-07
+Choose action (Add(a), Next(n), List(l), Detail(d), Edit(e), Remove(r), Quit(q):
+e
+Enter taskId:
+1
+Edit Task:
+Enter new subject or press enter to leave unchanged:
+
+Enter new due date (yyyy-mm-dd), or press enter to leave unchanged:
+2021-03-07
+Enter status abbreviation Not Started=n,Deferred=d,Waiting=w,Complete=c):
+c
+Enter priority abbreviation Normal=n,Low=l,High=h,Urgent=u):
+l
+Choose action (Add(a), Next(n), List(l), Detail(d), Edit(e), Remove(r), Quit(q):
+l
+Id:1; Subject: C++ Midterm; Status: IN_PROGRESS; Priority: LOW; StartDate: 2021-03-07; Due date: 2021-03-07
+Id:2; Subject: Java Assignments; Status: NOT_STARTED; Priority: HIGH; StartDate: 2021-03-07; Due date: 2021-03-07
+Id:3; Subject: English paper draft; Status: NOT_STARTED; Priority: NORMAL; StartDate: 2021-03-07; Due date: 2021-03-07
+Id:4; Subject: Clean my room; Status: NOT_STARTED; Priority: LOW; StartDate: 2021-03-07; Due date: 2021-03-07
+Choose action (Add(a), Next(n), List(l), Detail(d), Edit(e), Remove(r), Quit(q):
+r
+Enter taskId:
+1
+Task removed...
+Choose action (Add(a), Next(n), List(l), Detail(d), Edit(e), Remove(r), Quit(q):
+l
+Id:2; Subject: Java Assignments; Status: NOT_STARTED; Priority: HIGH; StartDate: 2021-03-07; Due date: 2021-03-07
+Id:4; Subject: Clean my room; Status: NOT_STARTED; Priority: LOW; StartDate: 2021-03-07; Due date: 2021-03-07
+Id:3; Subject: English paper draft; Status: NOT_STARTED; Priority: NORMAL; StartDate: 2021-03-07; Due date: 2021-03-07
+Choose action (Add(a), Next(n), List(l), Detail(d), Edit(e), Remove(r), Quit(q):
+e
+Enter taskId:
+2
+Edit Task:
+Enter new subject or press enter to leave unchanged:
+
+Enter new due date (yyyy-mm-dd), or press enter to leave unchanged:
+2021-03-07
+Enter status abbreviation Not Started=n,Deferred=d,Waiting=w,Complete=c):
+c
+Enter priority abbreviation Normal=n,Low=l,High=h,Urgent=u):
+l
+Choose action (Add(a), Next(n), List(l), Detail(d), Edit(e), Remove(r), Quit(q):
+d
+Enter taskId:
+4
+Id:4; Subject: Clean my room; Status: NOT_STARTED; Priority: LOW; StartDate: 2021-03-07; Due date: 2021-03-07
+Choose action (Add(a), Next(n), List(l), Detail(d), Edit(e), Remove(r), Quit(q):
+d
+Enter taskId:
+2
+Id:2; Subject: Java Assignments; Status: IN_PROGRESS; Priority: LOW; StartDate: 2021-03-07; Due date: 2021-03-07
+Choose action (Add(a), Next(n), List(l), Detail(d), Edit(e), Remove(r), Quit(q):
+d
+Enter taskId:
+1
+TaskId not found...
+Choose action (Add(a), Next(n), List(l), Detail(d), Edit(e), Remove(r), Quit(q):
+d
+Enter taskId:
+3
+Id:3; Subject: English paper draft; Status: NOT_STARTED; Priority: NORMAL; StartDate: 2021-03-07; Due date: 2021-03-07
+Choose action (Add(a), Next(n), List(l), Detail(d), Edit(e), Remove(r), Quit(q):
+e
+Enter taskId:
+3
+Edit Task:
+Enter new subject or press enter to leave unchanged:
+
+Enter new due date (yyyy-mm-dd), or press enter to leave unchanged:
+2021-03-15
+Enter status abbreviation Not Started=n,Deferred=d,Waiting=w,Complete=c):
+w
+Enter priority abbreviation Normal=n,Low=l,High=h,Urgent=u):
+h
+Choose action (Add(a), Next(n), List(l), Detail(d), Edit(e), Remove(r), Quit(q):
+a
+Adding new Task...
+Enter subject:
+Prep for next weeks assignments
+Enter due date (yyyy-MM-dd):
+2021-03-15
+Enter priority abbreviation Normal=n,Low=l,High=h,Urgent=u):
+l
+Choose action (Add(a), Next(n), List(l), Detail(d), Edit(e), Remove(r), Quit(q):
+q
+Goodbye.
+
+Process finished with exit code 0

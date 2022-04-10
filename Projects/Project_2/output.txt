@@ -1,0 +1,53 @@
+/Users/evaabedin/Library/Java/JavaVirtualMachines/adopt-openjdk-14.0.2/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=52879:/Applications/IntelliJ IDEA CE.app/Contents/bin -Dfile.encoding=UTF-8 -classpath /Users/evaabedin/Downloads/EmailServer/out/production/EmailServer emailserver.EmailServer
+*******Welcome to my email server java program******
+
+
+Eva to Russel
+Subject : Switzerland
+Date : Wed Mar 03 17:32:00 EST 2021
+
+What’s the best thing about Switzerland?What’s the best thing about Switzerland?
+I don’t know, but the flag is a big plus.I don’t know, but the flag is a big plus.
+
+Eva to Russel
+Subject : Fonts in a Bar
+Date : Wed Mar 03 17:32:00 EST 2021
+
+Helvetica and Times New Roman walk into a bar.Helvetica and Times New Roman walk into a bar.
+Get out of here!” shouts the bartender. “We don’t serve your type.Get out of here!” shouts the bartender. “We don’t serve your type.
+
+Russel to Eva
+Subject : Astronaut
+Date : Wed Mar 03 17:32:00 EST 2021
+
+Did you hear about the claustrophobic astronaut?Did you hear about the claustrophobic astronaut?
+He just needed a little space.He just needed a little space.Inbox:
+Eva
+Subject: Switzerland 		Wed 03 03
+
+
+Eva
+Subject: Fonts in a Bar 		Wed 03 03
+
+
+Sent:
+Russel
+Subject: Astronaut 		Wed 03 03
+
+
+Inbox:
+Russel
+Subject: Astronaut 		Wed 03 03
+
+
+Sent:
+Eva
+Subject: Switzerland 		Wed 03 03
+
+
+Eva
+Subject: Fonts in a Bar 		Wed 03 03
+
+
+
+Process finished with exit code 0
